@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="hint">Enter Your name</string>
+    <string name="send">SEND</string>
+</resources>
